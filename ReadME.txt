@@ -1,0 +1,2 @@
+To play the prototype you need an android phone and in the game it will direct you to make sure your calibrating everything correctly once you do it will allow you to play the actual prototype which is of a ball you can drag and move around with your hands that will show up in AR in your camera
+I don't own a Android device so im not 100% if all of the functionality works exactly how it should but i believe at least all the code should be functional 
